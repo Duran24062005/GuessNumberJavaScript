@@ -9,3 +9,5 @@ Al observar este resumen, lo primero que podemos hacer es comenzar a desglosar e
 
 
 [Documentation](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/A_first_splash)
+
+[Doc 2](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Introduction)
