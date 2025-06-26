@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    background-image: linear-gradient(to left, blue, pink);
+}
+
+body h1 {
+    color: whitesmoke;
+}
